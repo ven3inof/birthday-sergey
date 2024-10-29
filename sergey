@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Поздравление для Сергея</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f3f4f6;
+        }
+        .container {
+            max-width: 600px;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            color: #34495e;
+            font-size: 1.1em;
+            line-height: 1.5;
+        }
+        .gif-container {
+            margin: 20px 0;
+        }
+        .gif-container img {
+            width: 100%;
+            max-width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>С Днем Рождения, Сергей!</h1>
+        <p>Сергей, поздравляем тебя с этим знаменательным днем! Пусть в твоей жизни всегда будут только яркие моменты, а удача ходит с тобой рука об руку!</p>
+        
+        <div class="gif-container">
+            <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" alt="Веселый мужчина 1">
+        </div>
+
+        <p>Желаем тебе, чтобы каждое утро начиналось с хорошего настроения, как у этого парня выше, а вечера приносили только радость и удовлетворение. Пусть коллеги всегда ценят твою работу, а начальство никогда не забывает про премии!</p>
+        
+        <div class="gif-container">
+            <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Смешной мужчина 2">
+        </div>
+
+        <p>Пусть здоровье будет крепким, как железо, а жизнь - интересной и полной радостных событий. Желаем не просто исполнить все мечты, но и найти новые, ещё более амбициозные цели!</p>
+        
+        <div class="gif-container">
+            <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Улыбающийся мужчина 3">
+        </div>
+
+        <p>Сергей, пусть этот день принесёт тебе массу улыбок, добрые пожелания и, конечно же, огромный торт! С днём рождения, пусть каждый миг будет наполнен счастьем и весельем!</p>
+    </div>
+</body>
+</html>
